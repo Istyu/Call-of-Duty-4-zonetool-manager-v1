@@ -1,0 +1,10 @@
+C:\Users\Balogh István\source\COD4 Zonetool Manager\COD4 Zonetool Manager\bin\Debug\COD4 Zonetool Manager.exe.config
+C:\Users\Balogh István\source\COD4 Zonetool Manager\COD4 Zonetool Manager\bin\Debug\COD4 Zonetool Manager.exe
+C:\Users\Balogh István\source\COD4 Zonetool Manager\COD4 Zonetool Manager\bin\Debug\COD4 Zonetool Manager.pdb
+C:\Users\Balogh István\source\COD4 Zonetool Manager\COD4 Zonetool Manager\obj\Debug\COD4 Zonetool Manager.csproj.AssemblyReference.cache
+C:\Users\Balogh István\source\COD4 Zonetool Manager\COD4 Zonetool Manager\obj\Debug\COD4_Zonetool_Manager.Properties.Resources.resources
+C:\Users\Balogh István\source\COD4 Zonetool Manager\COD4 Zonetool Manager\obj\Debug\COD4 Zonetool Manager.csproj.GenerateResource.cache
+C:\Users\Balogh István\source\COD4 Zonetool Manager\COD4 Zonetool Manager\obj\Debug\COD4 Zonetool Manager.csproj.CoreCompileInputs.cache
+C:\Users\Balogh István\source\COD4 Zonetool Manager\COD4 Zonetool Manager\obj\Debug\COD4 Zonetool Manager.exe
+C:\Users\Balogh István\source\COD4 Zonetool Manager\COD4 Zonetool Manager\obj\Debug\COD4 Zonetool Manager.pdb
+C:\Users\Balogh István\source\COD4 Zonetool Manager\COD4 Zonetool Manager\obj\Debug\COD4_Zonetool_Manager.Form1.resources
